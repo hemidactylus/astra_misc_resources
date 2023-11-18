@@ -1,5 +1,12 @@
 # Astra Resources (steo)
 
+## Using "dot" for variable-weight ranking
+
+A "nonstandard" use of the DOT metric outside of the unit sphere
+reveals new horizons.
+
+[Learn more](dot-product-for-weighted-ranking/)
+
 ## Cassandra warning removal
 
 How to remove (most of) the scary, harmless warnings when connecting to
