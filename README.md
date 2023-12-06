@@ -10,6 +10,8 @@ Recipes and prototypes for working with systematic metadata updates.
 
 Workaround for the `IN` syntax not working on the metadata fields.
 
+[Try in Colab](https://colab.research.google.com/github/hemidactylus/astra_misc_resources/blob/main/cassio-and-in-queries/cassio-schema-and-IN-queries.ipynb)
+
 ## Using "dot" for variable-weight ranking
 
 A "nonstandard" use of the DOT metric outside of the unit sphere
