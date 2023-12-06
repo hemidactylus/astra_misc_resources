@@ -6,6 +6,10 @@ Recipes and prototypes for working with systematic metadata updates.
 
 [Try in Colab](https://colab.research.google.com/github/hemidactylus/astra_misc_resources/blob/main/langchain-cassio-vector-metadata-updates/langchain-cassio-vector-metadata-updates.ipynb)
 
+## Querying a CassIO vector store with IN
+
+Workaround for the `IN` syntax not working on the metadata fields.
+
 ## Using "dot" for variable-weight ranking
 
 A "nonstandard" use of the DOT metric outside of the unit sphere
