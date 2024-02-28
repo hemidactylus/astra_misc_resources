@@ -1,5 +1,10 @@
 # Astra Resources (steo)
 
+## "Idiomatic" astrapy demos
+
+Demo 1 (2024-02-28).
+[Try in Colab](https://colab.research.google.com/github/hemidactylus/astra_misc_resources/blob/main/idiomatic_astrapy_demos/idiomatic-m1-demo1.ipynb)
+
 ## Metadata updates for LangChain/CassIO vector stores
 
 Recipes and prototypes for working with systematic metadata updates.
